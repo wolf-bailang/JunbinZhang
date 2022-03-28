@@ -1,0 +1,36 @@
+- start: 2019.09
+  end: present
+  position: Doctor of Philosophy
+  department: Department of Computer Science and Information Engineering
+  affiliation: National Cheng Kung University
+- start: 2013.09
+  end: 2016.07
+  position: Master of Science
+  department: College of Photonic and Electronic Engineering
+  affiliation: Fujian Normal University
+- start: 2008.09
+  end: 2012.07
+  position: Bachelor of Engineering
+  affiliation: Fujian Normal University Minnan Institute of Science and Technology
+
+- start: 2019.03
+  end: 2019.09
+  position: Assistant Engineer
+  affiliation: Dr. Jianping Li's laboratory, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+- start: 2016.09
+  end: 2018.11
+  position: Research Assistant
+  affiliation: Professor Peng Jin's laboratory, Shenzhen Graduate School, Peking University
+
+#- start: 2015.6
+#  end: 2015.9
+#  position: Research Intern
+#  affiliation: Microsoft Research Cambridge
+#- start: 2014.6
+#  end: 2014.9
+#  position: Research Intern
+#  affiliation: Microsoft Research Redmond
+#- start: 2011.6
+#  end: 2011.8
+#  position: R&D Intern
+#  affiliation: Baidu, Inc.
