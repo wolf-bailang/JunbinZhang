@@ -1,10 +1,10 @@
-#- role: Area Chair
+- role: Area Chair
 #  venues:
 #    - name: NeurIPS
 #      year: 2020, 2021
 #    - name: ICLR
 #      year: 2021, 2022
-#- role: Reviewer
+- role: Reviewer
 #  venues:
 #    - name: NeurIPS
 #      year: 2015-2019
