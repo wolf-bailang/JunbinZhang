@@ -1,5 +1,8 @@
-- headline: [2022.01] One journal paper published at Sensors.
-- headline: [2020.12] One conference paper published at ICS2020.
+# Note: some symbols in a YAML file have special meanings, like `:` and `-`.
+# Make sure to enclose strings that contain these symbols in quotes.
+
+- headline: /[2022.01/] One journal paper published at Sensors.
+- headline: /[2020.12/] One conference paper published at ICS2020.
 # - headline: Our paper on code generation is out!
 #   link: https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
 # - headline: Our paper on scaling up and training large language models is out!
