@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
 Junbin Zhang received the B.S. degree in optoelectronic information and the M.S. degree in optics from Fujian Normal 
 University, China, in 2012 and 2016, respectively. In 2016, he joined Professor Peng Jin's laboratory, Shenzhen Graduate
 School, Peking University, as a research assistant. In 2019, he joined Dr. Jianping Li's laboratory, Shenzhen Institute
