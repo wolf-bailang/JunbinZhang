@@ -1,0 +1,42 @@
+# Note: some symbols in a YAML file have special meanings, like `:` and `-`.
+# Make sure to enclose strings that contain these symbols in quotes.
+
+- title: An Efficient Probe-Based Routing for Content-Centric Networking
+  authors:
+    - Pei-Hsuan Tsai*, Junbin Zhang, Meng-Hsun Tsai*
+  venues:
+    - name: Sensors [SCI, IF=3.576]
+      year: 2022, 22(1):341
+  url: https://doi.org/10.3390/s22010341
+
+- title: A Query-based Routing Table Update Mechanism for Content-Centric Network
+  authors:
+    - Pei-Hsuan Tsai*, Yu-Lin Tseng, Junbin Zhang, Meng-Hsun Tsai*
+  venues:
+    - name: in International Computer Symposium 2020 (ICS2020)
+      year: Dec. 17-19, 2020, Tainan, Taiwan
+  url: https://doi.org/10.1109/ICS51289.2020.00060
+
+- title: Error analysis and auto correction of hybrid solar tracking system using photo sensors and orientation algorithm
+  authors:
+    - Junbin Zhang, Zhuojun Yin, Peng Jin*
+  venues:
+    - name: Energy [SCI, IF=5.537]
+      year: 2019, 182:585-593.
+  url: https://doi.org/10.1016/j.energy.2019.06.032
+
+- title: Design and analysis of an active daylight harvesting system for building
+  authors:
+    - Xiujie Li, Yeyan Wei, Junbin Zhang, Peng Jin*
+  venues:
+    - name: Renewable Energy [SCI, IF=5.439]
+      year: 2019, 139:670-678.
+  url: https://doi.org/10.1016/j.renene.2019.02.097
+
+- title: Error analysis and auto correction of hybrid solar tracking system using photo sensors and orientation algorithm
+  authors:
+    - Junbin Zhang, Zhuojun Yin, Runze Cao, Xiujie Li, Chuangjun Huang, Peng Jin*
+  venues:
+    - name: Proceedings of SEEP2018, The 11th International Conference on Sustainable Energy and Environmental Protection
+      year: 2018, Paisley, UK.
+  url:
